@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanguageExt", "LanguageExt.csproj", "{DD145D04-2026-499F-A575-1FED7939893D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalExtension", "..\FunctionalExtension\FunctionalExtension.csproj", "{A23C08D2-9489-4209-A42E-30D491B08E48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD145D04-2026-499F-A575-1FED7939893D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD145D04-2026-499F-A575-1FED7939893D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD145D04-2026-499F-A575-1FED7939893D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD145D04-2026-499F-A575-1FED7939893D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A23C08D2-9489-4209-A42E-30D491B08E48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A23C08D2-9489-4209-A42E-30D491B08E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A23C08D2-9489-4209-A42E-30D491B08E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A23C08D2-9489-4209-A42E-30D491B08E48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53721812-FD7B-4308-8B01-E1E9B3123246}
+	EndGlobalSection
+EndGlobal
